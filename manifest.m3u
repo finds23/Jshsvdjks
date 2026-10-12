@@ -1,18 +1,18 @@
 {
-  "name": "123",
-  "version": "1.0.3",
+  "name": "tels",
+  "version": "1.0.1",
   "scrapers": [
     {
-      "id": "123",
-      "name": "123",
-      "description": "Películas y series en latino (HLS, máxima resolución).",
-      "version": "1.0.3",
+      "id": "tels",
+      "name": "tels",
+      "description": "",
+      "version": "1.0.1",
       "author": "-",
       "supportedTypes": [
         "movie",
         "tv"
       ],
-      "filename": "providers/tel.js",
+      "filename": "providers/telsgajs.js",
       "enabled": true,
       "contentLanguage": [
         "es"
