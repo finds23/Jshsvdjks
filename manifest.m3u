@@ -1,1 +1,22 @@
-
+{
+  "name": "123",
+  "version": "1.0.3",
+  "scrapers": [
+    {
+      "id": "123",
+      "name": "123",
+      "description": "Películas y series en latino (HLS, máxima resolución).",
+      "version": "1.0.3",
+      "author": "-",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/tel.js",
+      "enabled": true,
+      "contentLanguage": [
+        "es"
+      ]
+    }
+  ]
+}
